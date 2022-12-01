@@ -4,10 +4,10 @@ public class HirerarchicalinheritanceDemo {
 
 	public static void main(String[] args) {
 		
-		Kitkat k=new Kitkat();
+		KitKat K =new KitKat();
 
-		 k.display();
-		k.print1();
+		K.display();
+		K.print1();
 
 		System.out.println();
 		Tiramisu t=new Tiramisu();
@@ -18,4 +18,3 @@ public class HirerarchicalinheritanceDemo {
 	}
 
 }
-
